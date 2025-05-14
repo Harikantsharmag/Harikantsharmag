@@ -1,5 +1,65 @@
-# 💫 About Me:
-🔭 I’m currently working on the SplitMaTe project, exploring the intersection of machine learning and real-time data analysis to revolutionize problem solving in complex systems.<br>👯 I’m looking to collaborate with like-minded individuals on projects that push the boundaries of technology, challenge conventional thinking, and impact society.<br>🤝 I’m seeking guidance on deepening my understanding of ethical AI and the future of human-computer interaction in the context of evolving digital ecosystems.<br>🌱 I’m currently learning how to leverage the power of emerging technologies to create socially responsible solutions that foster meaningful change.<br>💬 Ask me about interdisciplinary approaches to innovation, how tech can drive social good, or how critical thinking shapes the future.<br>⚡ Fun fact: I once designed and built a fully automated car using Arduino—combining engineering with creativity to solve real-world problems.
+<h1 align="center">Hi there, I'm Harikant Sharma 👋</h1>
+
+<p align="center">
+  🚀 Software Developer • 🤖 AI Enthusiast • 🌐 Tech for Social Good Advocate
+</p>
+
+---
+
+### 🔭 What I’m Working On
+
+Currently exploring the synergy between **machine learning**, **real-time systems**, and **collaborative tools** to develop impactful solutions for modern challenges.
+
+---
+
+### 👯 Let’s Collaborate
+
+I’m open to collaborating on:
+- 🌍 Projects that **drive social impact**
+- 🧠 Ideas that **challenge conventional thinking**
+- 💡 Innovations that **blend disciplines** and spark change
+
+---
+
+### 🤝 Seeking Guidance In
+- ✅ **Ethical AI** and responsible innovation  
+- 🧠 The future of **human-computer interaction**  
+- 🌐 Building scalable, meaningful digital ecosystems
+
+---
+
+### 🌱 What I’m Learning
+
+- 🌟 How to leverage **emerging technologies** for the **greater good**
+- 🔐 Secure, scalable, and **human-centered software design**
+- 📈 Data-driven thinking for smarter decision-making
+
+---
+
+### 💬 Ask Me About
+
+- 🧩 **Interdisciplinary innovation**
+- 💙 Using **tech to drive social good**
+- 🧠 How **critical thinking** powers future-ready solutions
+
+---
+
+### ⚡ Fun Fact
+
+> I once designed and built a **fully automated Arduino-powered car**, merging hardware, software, and imagination to solve real-world problems. 🎯🚗💡
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let’s+build+something+great+together!&center=true&width=500&color=58A6FF&vCenter=true&size=22" />
+</p>
+
+<p align="center">
+  <a href="https://harikant.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-harikant.net-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harikant-sharma" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harikant%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dev@harikant.net"><img alt="Email" src="https://img.shields.io/badge/Email-dev@harikant.net-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 
 
 ## 🌐 Socials:
