@@ -3,7 +3,7 @@
 
 Bridging hardware and software through secure edge sensor networks, enterprise routing, and defensive security. [cite_start]Currently advancing my expertise in IoT architectures [cite: 61] [cite_start]and preparing for the CCNA (200-301)[cite: 36].
 
-🔗 [Portfolio](https://harikant.net) | 🔗 [LinkedIn](https://www.linkedin.com/in/harikant-sharma) | ✉️ dev@harikant.net
+🔗 [Portfolio](https://harikant.net) | 🔗 [LinkedIn](https://www.linkedin.com/in/harikant-sharma) | ✉️ harikantsharmag@gmail.com
 
 ---
 
